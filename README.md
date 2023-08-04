@@ -15,6 +15,7 @@ $ npm start
 
 
 ##
+![Captura de ecrã 2023-08-04 125739](https://github.com/anaritacpereira/Basic_React/assets/127841235/d66173fd-91aa-4268-ac72-683d1c915811)
 
 
-[Captura de ecrã 2023-08-04 125739](https://github.com/anaritacpereira/Basic_React/assets/127841235/20fa2833-b57c-426a-a79d-196dd5d521a4)
+
